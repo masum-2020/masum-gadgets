@@ -1,0 +1,12 @@
+.buy-now-button{
+    background-image: linear-gradient(to bottom, cyan, purple );
+    color: black;
+    border: none;
+    border-radius: 4px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
